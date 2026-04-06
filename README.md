@@ -1,4 +1,4 @@
-# ⚡️ DeepGency | Ghostwriting & Digital Authority Landing Page
+# DeepGency | Ghostwriting & Digital Authority Landing Page
 
 **DeepGency** est une landing page haute performance conçue pour les agences de ghostwriting d'élite. Ce projet met l'accent sur une esthétique brute/underground, une conversion maximale et une optimisation technique sans compromis.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Le projet est construit avec une architecture "CDN-first" pour une légèreté absolue et une maintenance rapide :
 
@@ -15,7 +15,7 @@ Le projet est construit avec une architecture "CDN-first" pour une légèreté a
 * **Animations:** [GSAP](https://greensock.com/gsap/) + [ScrollTrigger](https://greensock.com/scrolltrigger/)
 * **Typography:** Plus Jakarta Sans
 
-## 🚀 Key Features
+## Key Features
 
 -   **Brutalist Design:** Une interface minimaliste mais percutante utilisant un système de couleurs `High-Contrast` (Brand: `#D3F56A`).
 -   **Full Responsive:** Optimisé pour tous les écrans, du mobile 320px au Desktop Ultra-wide.
@@ -23,7 +23,7 @@ Le projet est construit avec une architecture "CDN-first" pour une légèreté a
 -   **GSAP Powered:** Micro-interactions fluides et animations au défilement pour une expérience premium.
 -   **One-Page Architecture:** Navigation fluide entre les sections Services, Processus et Témoignages.
 
-## 📁 Structure du Projet
+## Structure du Projet
 
 ```text
 ├── index.html          # Structure HTML5 & Layout principal
